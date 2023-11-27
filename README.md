@@ -111,6 +111,12 @@ packer.exe -f jsq.bin -m all
 
 ![image-20231127152441085](assets/image-20231127152441085.png)
 
-## 5.参考
+## 5.免责声明
+
+该工具仅供个人学习和研究使用。作者不对您使用该工具所产生的任何后果负任何法律责任。
+
+![image-20231127155719401](assets/image-20231127155719401.png)
+
+参考
 
 https://github.com/TideSec/GoBypassAV
