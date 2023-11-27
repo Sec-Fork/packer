@@ -1,3 +1,5 @@
+![packer](https://socialify.git.ci/1derian/packer/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Light)
+
 ## 1.工具介绍
 
 packer 是一款针对cs生成的shellcode快速打包成exe的一款工具, 内置了16种加载方式提供选择, 针对shellcode只是简单的进行了异或的处理, 并没有添加过多的免杀处理, 所以这只是本项目只是一个快速打包器, 如果刚好生成的exe是免杀的, 那么恭喜你 !
