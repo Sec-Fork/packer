@@ -85,11 +85,11 @@ OUTPUT:
 packer.exe -f jsq.bin -m zhizhen -k "-w" -o z1.exe
 ```
 
-![image-20231127152101056](C:\Users\Administrator\go\src\go_study\packer_my\assets\image-20231127152101056.png)
+![image-20231127152101056](.\assets\image-20231127152101056-17010703115441.png)
 
 运行 z1.exe 测试
 
-![image-20231127152150924](C:\Users\Administrator\go\src\go_study\packer_my\assets\image-20231127152150924.png)
+![image-20231127152150924](.\assets\image-20231127152150924.png)
 
 所有加载方式全部打包一遍
 
@@ -97,9 +97,9 @@ packer.exe -f jsq.bin -m zhizhen -k "-w" -o z1.exe
 packer.exe -f jsq.bin -m all
 ```
 
-![image-20231127152011621](C:\Users\Administrator\go\src\go_study\packer_my\assets\image-20231127152011621.png)
+![image-20231127152011621](.\assets\image-20231127152011621.png)
 
-![image-20231127152441085](C:\Users\Administrator\go\src\go_study\packer_my\assets\image-20231127152441085.png)
+![image-20231127152441085](.\assets\image-20231127152441085.png)
 
 ## 5.参考
 
